@@ -2,8 +2,9 @@
 projekt_1.py: první projekt do Engeto Online Python Akademie
 
 author: Petr Faulhammer
-email: petr.svetr@gmail.com
+email: faulhammer.petr@gmail.com
 """
+
 TEXTS = [
     '''Situated about 10 miles west of Kemmerer,
 Fossil Butte is a ruggedly impressive
